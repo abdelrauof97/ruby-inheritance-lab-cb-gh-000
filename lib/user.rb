@@ -5,4 +5,4 @@ class User
   
 end
 
-# learn 
+# learn spec/user_spec.rb
