@@ -4,4 +4,4 @@ class Teacher < User
 
   
 end
-# learn spec/teacher_spec.rb
+# learn spec/teacher_spec.rb --fail-fast
